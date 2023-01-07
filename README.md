@@ -1,5 +1,5 @@
 ## Minesweeper
->This was part of one of my Projects in the Ai50 course I have completed recently
+>This was part of one of my Projects in the AI50 course I have completed recently
 
 >pygame, python, itertools, random, copy, AI50
 
